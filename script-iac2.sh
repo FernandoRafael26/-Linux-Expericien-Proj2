@@ -7,7 +7,7 @@ apt-get install apache2 -y
 apt-get install unzip -y
 
 
-echo "Baixando e copiando os arquivos da aplicação..."
+echo "Baixando e copiando os arquivos da aplicação do Git do professor..."
 
 cd /tmp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
